@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class conditionalStatements {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
 
         // if statements

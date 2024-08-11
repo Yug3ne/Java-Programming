@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class decisonOperators {
     public static void main(String[] args) {
         System.out.println("Enter the temparature in your area: ");
+        @SuppressWarnings("resource")
         Scanner input = new Scanner(System.in);
         int temp = input.nextInt();
 
